@@ -1,8 +1,8 @@
 # 💫 About Me:
-Currently building AI-powered applications using Python and Streamlit.
-Worked on projects involving document Q&A, flashcard generation, and ML pipelines.
-Strong focus on Java, DSA, and problem-solving fundamentals.
-Actively exploring applied AI, not just theory.
+Currently building AI-powered applications using Python and Streamlit.<br>
+Worked on projects involving document Q&A, flashcard generation, and ML pipelines.<br>
+Strong focus on Java, DSA, and problem-solving fundamentals.<br>
+Actively exploring applied AI, not just theory.<br>
 
 
 ## 🌐 Socials:
