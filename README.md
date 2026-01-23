@@ -1,5 +1,8 @@
-# 💫 About Me:
-Currently working on AI/ML projects<br>Fascinated by Ai models and transformers<br>Deeply interested in evolving technology<br>Currently learning java and data structures and algorithms<br>
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8773ff5d-5491-4330-a2c7-273be7e2e3d6" /># 💫 About Me:
+Currently building AI-powered applications using Python and Streamlit.
+Worked on projects involving document Q&A, flashcard generation, and ML pipelines.
+Strong focus on Java, DSA, and problem-solving fundamentals.
+Actively exploring applied AI, not just theory.
 
 
 ## 🌐 Socials:
